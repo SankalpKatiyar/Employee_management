@@ -44,7 +44,7 @@ bash
 Copy
 Edit
 # 1. Clone the repo
-git clone https://github.com/yourusername/task-manager-react.git
+git clone https://github.com/SankalpKatiyar/Employee_management.git
 
 # 2. Navigate into the project folder
 cd task-manager-react
