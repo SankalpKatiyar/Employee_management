@@ -47,7 +47,7 @@ Edit
 git clone https://github.com/SankalpKatiyar/Employee_management.git
 
 # 2. Navigate into the project folder
-cd task-manager-react
+cd Employee_management
 
 # 3. Install dependencies
 npm install
